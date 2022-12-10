@@ -4,15 +4,15 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="BRUH BRUH BRUH Name"><b>Enter Name</b></label>
+    <label for="Name"><b>BRUH BRUH BRUH Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobile BRUHHHH</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="emailBINTOOOO NAMIKAZE WAS HERE"><b>Enter Email</b></label>
+    <label for="emailBINTOOOO NAMIKAZE WAS HERE"><b>BINTO NAMIKAZE IS OFFICIALLY HERE Enter Email</b></label>
     <input type="text" placeholder="Enter Email B" name="email" id="email" required>
     <br>
 
