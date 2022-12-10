@@ -12,8 +12,8 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="BINTOOOOOOOOOOOOOOOOOOOOO NAMIKAZE was here Enter Email" name="email" id="email" required>
+    <label for="emailBINTOOOO NAMIKAZE WAS HERE"><b>Enter Email</b></label>
+    <input type="text" placeholder="Enter Email B" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
