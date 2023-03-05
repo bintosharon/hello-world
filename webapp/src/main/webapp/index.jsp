@@ -4,12 +4,12 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>UsdfsdfsdfsdfsfsH BRUH Enter Name</b></label>
+    <label for="Name"><b> BRUH Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    
-    <label for="mobile"><b>Enter mobile BRUHHHH</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <br>
+    <label for="mobile"><b>rrrrrrrrrrrrrrrrrrrrrrrrrrrrrEnter mobrrrrrrile</b></label>
+    <input type="text" placeholder="Enterrrrrrrrrrrrrrrrrrrrrrr moible number" name="mobile" id="mobile" required>
     <br>
 
     <label for="emailBINTOOOO NAMIKAZE WAS HERE"><b>BINTiiiiiiiiiiiO NAMIKAZE IS OFFICIALLY HERE Enter Email</b></label>
