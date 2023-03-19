@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Now we have integrated git, jenkins, docker, ansible, docker hub and tomcat dayuuuuuuuuuuum bro</h1>
-    <p>no additional image should be created check step 2.</p>
+    <p>no additional image should be created check#2.</p>
     <hr>
      
     <label for="Name"><b> BRUH Enter Name</b></label>
