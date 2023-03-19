@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Now we have integrated git, jenkins, docker, ansible, docker hub and tomcat dayuuuuuuuuuuum bro</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>no additional image should be created check step 1.</p>
     <hr>
      
     <label for="Name"><b> BRUH Enter Name</b></label>
